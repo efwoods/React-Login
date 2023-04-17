@@ -3,9 +3,7 @@ import PropTypes from 'prop-types';
 
 import './Login.css';
 
-//const loginUrl = 'https://8000-efwoods-afterlife-14av4i38n6e.ws-us94.gitpod.io/login';
-const loginUrl = 'https://afterlife-backend.6p4po3ctm1a18.us-east-1.cs.amazonlightsail.com/wwjd';
-// const loginUrl = 'https://afterlife-backend.6p4po3ctm1a18.us-east-1.cs.amazonlightsail.com/login';
+const loginUrl = 'https://afterlife-backend.6p4po3ctm1a18.us-east-1.cs.amazonlightsail.com/login';
 
 async function loginUser(credentials) {    
     
